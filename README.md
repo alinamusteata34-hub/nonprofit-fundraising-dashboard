@@ -11,8 +11,7 @@ CRM-style fundraising data (transactions, appeals, campaigns) sourced from Kaggl
 Tableau Public, Python (pandas) for data cleaning/aggregation
 
 ## Key insight
-[Add 1-2 sentences here — e.g. which campaign/channel raised the most, 
-and any notable pattern you noticed]
+The **Wildlands Corridor Acquisition** campaign raised **$51.5M total** — more than double the next highest campaign (Community Garden Network, $20M) — driven primarily by major Board Giving and Corporate Partnership gifts rather than smaller peer-to-peer or event-based channels. This suggests capital campaigns tied to large land acquisitions attract concentrated high-dollar donors, while community-facing campaigns rely on a broader base of smaller contributions.
 
 ## View the interactive dashboard
 🔗 [View live on Tableau Public](https://public.tableau.com/app/profile/alina.musteata/viz/TotalRaisedbyCampaign/TotalRaisedbyCampaign)
