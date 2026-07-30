@@ -15,4 +15,4 @@ Tableau Public, Python (pandas) for data cleaning/aggregation
 and any notable pattern you noticed]
 
 ## View the interactive dashboard
-[Link to your Tableau Public page once published]
+🔗 [View live on Tableau Public](https://public.tableau.com/app/profile/alina.musteata/viz/TotalRaisedbyCampaign/TotalRaisedbyCampaign)
